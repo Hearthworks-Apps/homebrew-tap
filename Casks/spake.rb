@@ -1,6 +1,6 @@
 cask "spake" do
-  version "1.0.4"
-  sha256 "065f6c8fc7d7e43cf66b189a1e4a967d0deb87476929d1976722a7339971fe7d"
+  version "1.0.5"
+  sha256 "02761c30ca508ad28f64feba430207fe24047fc76f5ebbc12b06dab00a90a152"
 
   url "https://spake.app/download/Spake-#{version}-arm64.zip"
   name "Spake"
